@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "versionName": "0.1.1",
+  "versionCode": 2,
+  "packageId": "io.github.kalderaloop.dicetable",
+  "downloadUrl": "https://github.com/kalderaloop/DiceTable-Releases/releases/download/v0.1.1/DiceTable-0.1.1.apk",
+  "apkSize": 149933833,
+  "sha256": "8F283B17B2D8C3346F5BE2808074A0E74764267B0B341938B4FFD1D8E5CD2595",
+  "certificateSha256": "B354AAD83C253ED814740A9F4DBBAB5C14DCFE0DC4238F18D9E0B94BD34B1F5F",
+  "releaseNotes": "Version 0.1.1 zeigt den aktiven Direkt-Update-Stand sichtbar an.",
+  "minSupportedVersionCode": 1
+}
